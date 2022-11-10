@@ -1,0 +1,21 @@
+"Title:","Marijuana Use in the Past Year from the National Survey on Drug Use and Health (NSDUH) Database"
+"SubTitle:","State"
+"Time:","2014 - 2020"
+"Unit of Measure:","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#"
+"Citation:","Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services) (2022-07-20). National Survey on Drug Use and Health (NSDUH): Marijuana Use in the Past Year | California, Maine, Massachusetts, Michigan, Nevada | 12-17 Years Old | 18-25 Years Old | 26 Years and Older, 2014 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  102-001-002 doi:https://doi.org/10.6068/DP18461EB75B80"
+"ColumnCount:",16
+"RowCount:",7
+
+"Time","California, 12-17 Years Old","California, 18-25 Years Old","California, 26 Years and Older","Maine, 12-17 Years Old","Maine, 18-25 Years Old","Maine, 26 Years and Older","Massachusetts, 12-17 Years Old","Massachusetts, 18-25 Years Old","Massachusetts, 26 Years and Older","Michigan, 12-17 Years Old","Michigan, 18-25 Years Old","Michigan, 26 Years and Older","Nevada, 12-17 Years Old","Nevada, 18-25 Years Old","Nevada, 26 Years and Older"
+"2014",463000,1506000,2664000,16000,54000,155000,76000,334000,579000,120000,391000,793000,32000,90000,182000
+"2015",431000,1459000,3046000,16000,53000,158000,78000,333000,648000,111000,372000,783000,30000,88000,191000
+"2016",402000,1495000,3399000,15000,52000,161000,70000,345000,672000,112000,384000,821000,33000,84000,202000
+"2017",404000,1579000,3730000,14000,57000,182000,79000,356000,737000,109000,418000,879000,33000,102000,282000
+"2018",418000,1668000,4005000,14000,60000,203000,82000,368000,768000,105000,447000,1011000,33000,121000,397000
+"2019",477000,1687000,4476000,16000,59000,214000,77000,367000,874000,101000,475000,1189000,39000,123000,451000
+"2020",393000,1580000,5160000,13000,54000,216000,66000,317000,1049000,94000,469000,1356000,28000,118000,442000
+
+
+
+"Publisher:", "Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."

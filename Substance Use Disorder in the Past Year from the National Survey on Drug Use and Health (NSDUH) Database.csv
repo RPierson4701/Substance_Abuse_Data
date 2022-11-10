@@ -1,0 +1,19 @@
+"Title:","Substance Use Disorder in the Past Year from the National Survey on Drug Use and Health (NSDUH) Database"
+"SubTitle:","State"
+"Time:","2016 - 2020"
+"Unit of Measure:","#","#","#","#","#","#","#","#","#","#","#","#","#","#","#"
+"Citation:","Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services) (2022-07-20). National Survey on Drug Use and Health (NSDUH): Substance Use Disorder in the Past Year | California, Maine, Massachusetts, Michigan, Nevada | 12-17 Years Old | 18-25 Years Old | 26 Years and Older, 2016 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  102-001-023 doi:https://doi.org/10.6068/DP18461F0310D1"
+"ColumnCount:",16
+"RowCount:",5
+
+"Time","California, 12-17 Years Old","California, 18-25 Years Old","California, 26 Years and Older","Maine, 12-17 Years Old","Maine, 18-25 Years Old","Maine, 26 Years and Older","Massachusetts, 12-17 Years Old","Massachusetts, 18-25 Years Old","Massachusetts, 26 Years and Older","Michigan, 12-17 Years Old","Michigan, 18-25 Years Old","Michigan, 26 Years and Older","Nevada, 12-17 Years Old","Nevada, 18-25 Years Old","Nevada, 26 Years and Older"
+"2016",154000,659000,1944000,5000,20000,64000,22000,149000,403000,37000,173000,442000,12000,44000,120000
+"2017",140000,614000,1705000,4000,20000,69000,21000,158000,388000,30000,159000,448000,12000,53000,134000
+"2018",122000,637000,1800000,4000,23000,76000,19000,149000,359000,28000,159000,417000,12000,52000,154000
+"2019",137000,673000,2105000,4000,21000,74000,20000,139000,344000,30000,162000,424000,13000,48000,169000
+"2020",200000,901000,4126000,7000,38000,150000,32000,209000,746000,53000,280000,1015000,11000,64000,295000
+
+
+
+"Publisher:", "Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
